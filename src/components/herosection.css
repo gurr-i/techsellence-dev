@@ -91,7 +91,7 @@ video{
 
 @media screen and (max-width: 500px) {
     .hero-container{
-        height: 95vh;
+        height: 100vh;
     }
     .hero-container >h1{
         font-size: 25px;

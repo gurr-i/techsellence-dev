@@ -40,7 +40,7 @@
 
 .nav-menu {
     display: grid;
-    grid-template-columns: repeat(4, auto);
+    grid-template-columns: repeat(6, auto);
     grid-gap: 10px;
     list-style: none;
     text-align: center;
@@ -108,7 +108,7 @@
     }
 
     .nav-menu.active {
-        background: rgba(245, 244, 241, .25);
+        background:rgb(255 255 255 / 88%);
         /* Blur navbar */
         /* -webkit-backdrop-filter: blur(8px);
         backdrop-filter: blur(8px);
